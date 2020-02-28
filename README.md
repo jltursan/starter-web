@@ -15,3 +15,7 @@ This is a example of Deployment
 Example of contribution
 
 I'm sick of typing
+
+## Copyright
+
+2020 Git.training
