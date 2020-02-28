@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 This is a example of Deployment
 
 ## How to Contribute
+
+Example of contribution
+
+I'm sick of typing
